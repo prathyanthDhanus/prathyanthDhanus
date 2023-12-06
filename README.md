@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Code-Genie**
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Opensource**
 
 - 👨‍💻 All of my projects are available at [prathyanthdhanus.github.io/portfolio/](prathyanthdhanus.github.io/portfolio/)
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **prathyanthbusinessmail@gmail.com**
 
